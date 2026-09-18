@@ -6,4 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-age = int(input())
+age = int(input(20))
+
+output: int(input("Eligible"หากมีอายุตั้งแต่18ปีขึ้นไป หรือ "Not Eligible" หากน้อยกว่า 18 ปี)
+print 
+age : int(input(18))
